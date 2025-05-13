@@ -11,6 +11,9 @@ public class OrderServiceApplication {
 		SpringApplication.run(OrderServiceApplication.class, args);
 
 		System.out.println("666 changes are made");
+
+		System.out.println("123 changes are made");
+		
 	}
 
 }
