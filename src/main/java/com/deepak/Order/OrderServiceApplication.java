@@ -10,7 +10,7 @@ public class OrderServiceApplication {
 
 		SpringApplication.run(OrderServiceApplication.class, args);
 
-		System.out.println("mild changes");
+		System.out.println("666 changes are made");
 	}
 
 }
